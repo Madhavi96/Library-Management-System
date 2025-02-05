@@ -27,3 +27,7 @@
 - Main Page 
 ![Screenshot (78)](https://github.com/user-attachments/assets/6814c97b-4f99-410b-b09b-0b34864ba82d)
 
+- Swagger
+![Screenshot (77)](https://github.com/user-attachments/assets/020b8c8e-97a5-4399-a284-cf899d94ef22)
+
+
